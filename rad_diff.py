@@ -26,7 +26,7 @@ where sig^2 is the variance of the particle displacment at a given time and
 d(sig^2)/dt is for fickian diffusion the coefficient of the linear fit. A plot 
 is preduced of the fit and the particle distrebution as it spreads out with time.
 The routine needs suffciently many PVARs.
-Nutzung auf eigene Gefahr, eltern haften für ihre Kinder.
+
 
 """
 
