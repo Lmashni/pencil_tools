@@ -1,2 +1,2 @@
 # pencil_tools
-For Max Plank Astronomy. Tools to processe simulations produced by the PENCIL CODE. A hydrodynamics solver.
+For Max Planck Astronomy. Tools to process simulations produced by the PENCIL CODE. A hydrodynamics solver.
