@@ -12,9 +12,12 @@ python rad_diff.py s st n
 ```
 
 parameters:
-    s:     int pvar file to start from
-    st:    int pvar file to stop at 
-    n:     int number of particles to track
+
+s:     int pvar file to start from
+    
+st:    int pvar file to stop at 
+    
+n:     int number of particles to track
  
 The routine tracks the variance of the particle displacment over time and 
 fits it linearly assuming fickian diffusion. the diffusivity is then given by:
